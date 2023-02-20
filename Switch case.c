@@ -1,8 +1,7 @@
 #include<stdio.h>
 
-int main()
-{    char i;
-    
+int main(){
+    char i;
     printf("\n\nEnter :- ");
     i=getchar();
     switch (i) 
